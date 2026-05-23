@@ -1,0 +1,8 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-23 10:44 -0400
+Nmap scan report for 192 (0.0.0.192)
+Host is up (0.0083s latency).
+All 1000 scanned ports on 192 (0.0.0.192) are in ignored states.
+Not shown: 1000 filtered tcp ports (net-unreach)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.46 seconds

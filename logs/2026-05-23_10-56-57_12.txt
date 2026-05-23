@@ -1,0 +1,7 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-05-23 10:56 -0400
+Nmap scan report for 12 (0.0.0.12)
+Host is up (0.0058s latency).
+All 100 scanned ports on 12 (0.0.0.12) are in ignored states.
+Not shown: 100 filtered tcp ports (net-unreach)
+
+Nmap done: 1 IP address (1 host up) scanned in 1.15 seconds

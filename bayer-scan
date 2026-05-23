@@ -1,0 +1,54 @@
+#!/bin/bash
+
+RED='\033[0;31m'
+WHITE='\033[1;37m'
+RESET='\033[0m'
+
+echo -e "${RED}"
+
+cat << "EOF"
+
+              @@
+        .     @@     @
+       @      @@      @@
+     @@       @@       @@
+    @@@       @@       @@@
+      @@@     @@     @@@
+        @@@   @@   @@@
+          @@@ -@ @@@
+             @@@@@
+            *@@@@@
+          @@@@@@%@@@
+         @@@  %@  @@@@
+       @@@    @@    @@@*
+     @@@      @@      @@@@
+     @@       @@       @@@
+      .@@     @@     @@@
+        @@@   @@   @@@
+          @@@ :@ @@@
+             @@@@@@
+               @@
+
+EOF
+
+echo "----------------------------------------"
+echo "Developed by Bayer"
+echo "----------------------------------------"
+
+echo -e "${RESET}"
+
+echo
+echo "Selecciona el tipo de escaneo:"
+echo "1) Escaneo rápido"
+echo "2) Detectar versiones"
+echo "3) Escaneo agresivo"
+echo "4) Descubrir hosts en red"
+echo
+
+read -p "Opción: " OPTION
+read -p "Introduce la IP, dominio o red: " TARGET
+
+echo
+echo "Iniciando scanner..."
+
+python3 /home/kali/bayer-scan/scanner.py "$OPTION" "$TARGET"
