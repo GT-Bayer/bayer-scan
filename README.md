@@ -63,16 +63,6 @@ Run the scanner:
 ./bayer-scan
 ```
 
-## Screenshots
-
-### Main Interface
-
-(Add screenshots here)
-
-```markdown
-![Bayer Scan](screenshots/screenshot1.png)
-```
-
 ## Example Usage
 
 ```bash
