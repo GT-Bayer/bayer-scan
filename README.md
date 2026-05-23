@@ -1,5 +1,13 @@
 # Bayer Scan
 
+```markdown
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Script-black?style=for-the-badge&logo=gnubash)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-green?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Kali-red?style=for-the-badge&logo=linux)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+```
+
 Custom Nmap-based reconnaissance CLI built with Python, Bash and Rich.
 
 ## Overview
