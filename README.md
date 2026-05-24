@@ -16,7 +16,10 @@ The project combines Bash, Python and Rich to provide an improved terminal exper
 
 ## Screenshots
 
+### Main Interface
 ![Main Interface](screenshots/screenshot1.png)
+
+### Quick Scan Example
 ![Scan Result](screenshots/screenshot2.png)
 
 ## Features
