@@ -14,7 +14,7 @@ Bayer Scan is a terminal-based reconnaissance and network scanning tool designed
 
 The project combines Bash, Python and Rich to provide an improved terminal experience with automated logging, scan presets and real-time visual feedback.
 
-## Screenshot
+## Screenshots
 
 ![Main Interface](screenshots/screenshot1.png)
 ![Scan Result](screenshots/screenshot2.png)
